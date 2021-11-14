@@ -43,7 +43,7 @@ class Vampire {
   /** Stretch **/
 
   // Returns the closest common ancestor of two vampires.
-  // The closest common anscestor should be the more senior vampire if a direct ancestor is used.
+  // The closest common anscestor should be the more senior vampire if a direct ancestor is used. 
   // For example:
   // * when comparing Ansel and Sarah, Ansel is the closest common anscestor.
   // * when comparing Ansel and Andrew, Ansel is the closest common anscestor.
